@@ -1,5 +1,5 @@
 # A Simple Shell Program
-This is a interactive shell program in C.      
+This is an interactive shell program in C.      
 This has following features:      
 - Process creation and execution - foreground        
 - Process creation and execution - use of '|'         
